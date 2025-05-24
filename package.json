@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://mahrukhqureshi28.github.io/Devops-Project_using",
+  "homepage": "https://mahrukhQureshi28.github.io/Devops-Project_using",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
